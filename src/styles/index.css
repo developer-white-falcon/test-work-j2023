@@ -1,0 +1,38 @@
+body {
+  background-color: #c2c3d8;
+}
+
+.card-height {
+  height: 650px;
+}
+
+.container {
+  margin: 5% auto;
+}
+
+.card-color {
+  background-color: #E6F4F1;
+}
+
+.filter-buttons {
+  bottom: 10px;
+}
+
+.favorite-button-margin-bottom {
+  margin-bottom: 15px;
+}
+
+.card-title-margin-top {
+  margin-top: 8px;
+}
+
+@media (hover: none) {
+  .btn-outline-danger:hover {
+    color: #dc3545;
+    background-color: #E6F4F1;
+  }
+
+  .btn-danger:hover {
+    background-color: #dc3545;
+  }
+}
